@@ -1,0 +1,9 @@
+a{
+    text-decoration: none;
+    color: greenyellow;
+}
+#two img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%; 
+  }
